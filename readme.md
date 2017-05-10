@@ -1,0 +1,2 @@
+notes of learn shell
+
